@@ -1,0 +1,2 @@
+conse name = 'Karan'
+console.log(name)
